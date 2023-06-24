@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @anshikachaturvedi
-- 👀 I’m interested in Machine Learning and Artificial Intelligence...
-- 🌱 I’m currently a computer science undergraduate ...
-- 💞️ I’m looking to collaborate on machine learning based projects ...
+- Welcome to my GitHub profile!
+- 👀 I have always been captivated by the immense potential of artificial intelligence and its ability to transform the way we live, work, and interact with technology.
+  My journey in AI has been an exciting one, filled with exploration, learning, and a constant quest for innovation.
+- 🌱 Pursuing Masters in Artificial Intelligence (Expected Graduation:[2023])   [University of Kent]
+- 💞️Skills and Expertise
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Data Analysis and Visualization
+- Python, R, and MATLAB
 
-<!---
-anshikachaturvedi/anshikachaturvedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Thank you for visiting my profile! Don't forget to check out my repositories for some AI-powered projects and contributions. Let's inspire and empower each other in this incredible AI journey!
